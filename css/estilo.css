@@ -1,0 +1,16 @@
+body {
+    background-color:#9370DB ;
+}
+
+img{
+    width: 10%;
+}
+
+figure{
+    text-align: center;
+}
+
+.container{
+    width: 80%;
+    margin: auto
+}
