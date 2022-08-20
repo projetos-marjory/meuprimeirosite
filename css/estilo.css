@@ -14,3 +14,11 @@ figure{
     width: 80%;
     margin: auto
 }
+
+h1,h2{
+    font-family: 'Concert One', cursive;
+        text-align: center;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+}
