@@ -22,3 +22,11 @@ h1,h2{
 p{
     font-family: 'Comfortaa', cursive;
 }
+.video{
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+footer{
+    clear: both;
+}
