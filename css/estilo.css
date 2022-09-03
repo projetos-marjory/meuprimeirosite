@@ -1,7 +1,15 @@
+html{scroll-behavior: smooth;
+
+}
+
 body {
     background-color:#9370DB ;
 }
-
+header{
+    background-color:#6546a1; 
+    text-align: center;
+}
+    
 img{
     width: 10%;
 }
@@ -29,4 +37,16 @@ p{
 }
 footer{
     clear: both;
+    background-color:#6546a1;
+    padding-top:1%;
+    padding-bottom:2% ;
+}
+
+footer {
+    clear: both;
+    
+
+}
+footer p{
+    text-align: center;
 }
